@@ -1,14 +1,18 @@
 
 # REMUX - a small personal project
-saas remux is my try at next.js + tailwind + typescript
+saas remux is my try at next.js + tailwind + shadcn/ui
 
 # Prerequisites - What you need
 
 - node (https://nodejs.org/en)
 - next.js 14 (install with node)
+- shadcn/ui
 
-to install next, use this command:
+to install next.js, use this command:
 ```npm install next@latest```
+
+to install *Shadcn/ui* use:
+```npm install shadcn-ui@latest```
 
 # Getting started
 

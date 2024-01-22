@@ -16,6 +16,11 @@ to install *Shadcn/ui* use:
 ```npm install shadcn-ui@latest```
 to install *clerk* use:
 ```npm install @clerk/nextjs```
+after installing clerk you need to create your own private keys
+go to https://clerk.com
+and follow the tutorial and get the keys
+paste the keys into
+
 
 # Getting started
 

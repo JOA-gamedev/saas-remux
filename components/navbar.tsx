@@ -2,7 +2,7 @@
 
 import { UserButton } from "@clerk/nextjs";
 import MobileSidebar from "@/components/mobile-sidebar";
-import { useEffect, useState } from "react";
+
 
 const Navbar = () => {
     

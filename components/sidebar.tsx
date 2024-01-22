@@ -34,15 +34,14 @@ const Sidebar = () => {
                     </h1>
 
                 </Link>
-                <div className="space-y-1">
+                {/* <div className="space-y-1">
                     {routes.map((route) => (
-                        <Link href="/">
-                        </Link>
+                        
 
                         // @todo here i left
                         // @body here i left
                     ))}
-                </div>
+                </div> */}
             </div>
         </div>
      );

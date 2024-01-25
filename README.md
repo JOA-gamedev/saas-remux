@@ -21,6 +21,8 @@ go to https://clerk.com
 and follow the tutorial and get the keys
 paste the keys into
 
+BYOK - Bring your own keys!
+
 
 # Getting started
 

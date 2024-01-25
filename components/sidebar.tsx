@@ -63,15 +63,11 @@ const Sidebar = () => {
             <div className="px-3 py-2 flex-1">
                 <Link href="/dashboard" className="flex items-center pl-3 mb-14">
                     <div className="relative w-8 h-8 mr-4">
-                        <Image
+                           <Image
                           fill
-                          alt="logo"
-                          src="/logo.png" 
+                          alt="remux 2"
+                          src="/REMUX_mincrop_1080.svg" 
                           />
-                          {/* 
-                          @todo add image
-                          @body add an image in the public folder
-                           */}
                     </div>
                     <h1 className="text-2xl font-bold">
                         REMUX
